@@ -1,0 +1,1 @@
+<h1>hello i am mf nishant</h1><?php /**PATH C:\Users\Nishant Kumar\OneDrive\Desktop\LaravelPro\recipe_maker\resources\views/auth/dashboard.blade.php ENDPATH**/ ?>
